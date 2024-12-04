@@ -1,0 +1,20 @@
+
+# Python cache files
+__pycache__/
+
+# Virtual environment
+env/
+venv/
+
+# Dataset files
+*.jpg
+
+# IDE settings
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
